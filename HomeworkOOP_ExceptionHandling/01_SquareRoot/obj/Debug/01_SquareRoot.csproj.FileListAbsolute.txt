@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\HomeworkOOP_ExceptionHandling\HomeworkOOP_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe.config
+C:\Users\Laptop\Desktop\GitHub\HomeworkOOP_ExceptionHandling\HomeworkOOP_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe
+C:\Users\Laptop\Desktop\GitHub\HomeworkOOP_ExceptionHandling\HomeworkOOP_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.pdb
+C:\Users\Laptop\Desktop\GitHub\HomeworkOOP_ExceptionHandling\HomeworkOOP_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\HomeworkOOP_ExceptionHandling\HomeworkOOP_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.exe
+C:\Users\Laptop\Desktop\GitHub\HomeworkOOP_ExceptionHandling\HomeworkOOP_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.pdb
